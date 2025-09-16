@@ -3,6 +3,7 @@
 <div id="header" align="center">
 <img src="https://raw.githubusercontent.com/magotiti/magotiti/main/gohan.gif" width="350"/>
 <br><br>
+<h1>Olá! Eu sou o Thiago 👋</h1>
 <p>[PT] Desenvolvedor backend apaixonado por criar soluções robustas e eficientes. Minhas principais linguagens de domínio são: Delphi, Java e C#. Estou sempre explorando novas tecnologias e aprimorando minhas habilidades. Este perfil contempla meus projetos acadêmicos durante minha trajetória até aqui, na Engenharia de Software.</p>
 <p></p> [EN] Backend developer passionate about creating robust and efficient solutions. My main domain languages are: Delphi, Java and C#. I am always exploring new technologies and improving my skills. This profile includes my academic projects during my journey so far, in Software Engineering.</p>
 
